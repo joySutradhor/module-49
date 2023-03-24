@@ -1,0 +1,7 @@
+.singleBlog{
+    background-color: beige;
+    padding: 15px;
+}
+.singleBlog> button {
+    background-color: lightgreen;
+}
